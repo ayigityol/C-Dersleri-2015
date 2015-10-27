@@ -6,6 +6,7 @@ IEEE METU NCC'nin düzenlediği C Programlama Dili Eğitimlerinde kullanılan d�
 - Kullanılan IDE : [Dev C ++ Project]( http://sourceforge.net/projects/orwelldevcpp/)
 
 **Sorular ve çözümler yorum satırları içine alınmış olup, ilgili satırı sildiğiniz anda program doğru bir şekilde çalışacaktır.**
+
 *Paylaşılan kod örneği :* 
 ```C 
 	/* YANIT BIR ICIN BU SATIRI SIL ------------------------------------------------------
@@ -40,7 +41,9 @@ IEEE METU NCC'nin düzenlediği C Programlama Dili Eğitimlerinde kullanılan d�
 - Slaytlar kaynak gösterildiği takdirde isteyen herkesin kullanımına açıktır.
 - Paylaşılan sorular METU NCC CNG Departmanı tarafından hazırlanmıştır.
 
- Her türlü görüş ve önerileriniz için:
+
+
+ Her türlü soru, görüş ve önerileriniz için:
 - [FACEBOOK](https://facebook.com/ieeemetuncc)
 - [TWITTER](https://twitter.com/ieeemetuncc)
 - [WEB SITESI](http://ieee.ncc.metu.edu.tr)
