@@ -45,12 +45,11 @@ IEEE METU NCC'nin düzenlediği C Programlama Dili Eğitimlerinde kullanılan d�
 
 
 -------------------------------------------------------------------------
-
- Her türlü soru, görüş ve önerileriniz için:
+| Her türlü soru, görüş ve önerileriniz için:
 - [FACEBOOK](https://facebook.com/ieeemetuncc)
 - [TWITTER](https://twitter.com/ieeemetuncc)
-- [WEB SITESI](http://ieee.ncc.metu.edu.tr)
-
+- [WEB SITESI](http://ieee.ncc.metu.edu.tr)       
+------------------------------------------------------------------------
 ![IEEE METU NCC COMPUTER SOCIETY 2015](http://i.imgur.com/GtT6ZC3.png)
 
 
