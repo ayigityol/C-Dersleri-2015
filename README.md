@@ -37,11 +37,14 @@ IEEE METU NCC'nin düzenlediği C Programlama Dili Eğitimlerinde kullanılan d�
 ```	
  
  
-- Paylaşılan slaytlar IEEE METU NCC SB tarafından hazırlanmıştır.
-- Slaytlar kaynak gösterildiği takdirde isteyen herkesin kullanımına açıktır.
-- Paylaşılan sorular METU NCC CNG Departmanı tarafından hazırlanmıştır.
+* Paylaşılan slaytlar IEEE METU NCC SB tarafından hazırlanmıştır.
+
+* Slaytlar kaynak gösterildiği takdirde isteyen herkesin kullanımına açıktır.
+
+* Paylaşılan sorular METU NCC CNG Departmanı tarafından hazırlanmıştır.
 
 
+-------------------------------------------------------------------------
 
  Her türlü soru, görüş ve önerileriniz için:
 - [FACEBOOK](https://facebook.com/ieeemetuncc)
